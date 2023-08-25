@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @josephjohn-ms
-- 👀 I’m interested in Yenepoya
+- 👀 I’m interested in CS|Maths|Chemistry|Physics
 - 🌱 I’m currently learning programming and web development
 - 💞️ I’m looking to collaborate on web projects
 - 📫 ig me @josephjohnms
